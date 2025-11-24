@@ -1,0 +1,9 @@
+numpy
+scipy
+tqdm
+scikit-learn
+tensorflow
+jax
+jaxlib
+optax
+tensorcircuit-nightly

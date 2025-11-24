@@ -1,0 +1,27 @@
+# --- Logs ---
+# Reinforcement Learning logs directories
+ppo_ant_classical_logs/
+ppo_ant_quantum_logs/
+# General logs wildcard
+*_logs/
+logs/
+
+# --- Data and Results ---
+# Numpy archives and arrays (MNIST, CIFAR, RL results)
+*.npz
+*.npy
+
+# Pickle files (Quantum Data eigenstate cache)
+*.pkl
+
+# --- Python General ---
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- OS / IDE Specific ---
+.DS_Store
+.vscode/
+.idea/
