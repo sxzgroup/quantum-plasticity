@@ -1,10 +1,9 @@
 # Quantum Neural Networks Preserve Plasticity in Continual Learning
 
-[![Framework: TensorCircuit](https://img.shields.io/badge/Framework-TensorCircuit_NG-blue.svg)](https://github.com/tencent-quantum-lab/tensorcircuit)
+[![Framework: TensorCircuit](https://img.shields.io/badge/Framework-TensorCircuit_NG-blue.svg)](https://github.com/tensorcircuit/tensorcircuit-ng)
 [![arXiv](https://img.shields.io/badge/arXiv-2511.17228-blue.svg)](https://arxiv.org/abs/2511.17228)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-
 
 This repository contains the official implementation for the paper [**Intrinsic preservation of plasticity in continual quantum learning**](https://arxiv.org/abs/2511.17228).
 
